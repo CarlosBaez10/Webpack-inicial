@@ -1,3 +1,7 @@
 html, body {
     /* background-color: bisque; */
 }
+
+.logo {
+    width:  300px;
+}
